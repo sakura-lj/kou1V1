@@ -1,6 +1,9 @@
-# 1. kou1V1简介
 
-**1.0版本不更新了，请去看升级版[kou1V2](https://github.com/sakura-lj/kou1V2)**
+# **1.0版本不更新了，请去看升级版[kou1V2](https://github.com/sakura-lj/kou1V2)**
+
+***
+
+# 1. kou1V1简介
 
 检测QQ群里出现关键词”**扣一**“，就自动发送消息"**1**"，该版本是V1.0版本。
 
